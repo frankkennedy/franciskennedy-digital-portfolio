@@ -22,4 +22,4 @@ Check out **[Projects](https://github.com/frankkennedy/franciskennedy-digital-po
 - **Most recent role:** _Company — Title (Years)_
 - **Previous:** _Company — Title (Years)_
 
-> Want the full detail? See **[Resume](/resume/)**.
+> Want the full detail? See **[Resume](https://www.linkedin.com/in/franciskennedy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**.
