@@ -11,4 +11,4 @@ header_pages:
 minima:
   social_links:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/franciskennedy/" }
-    - { platform: github, user_url: "https://github.com/<YOUR_GITHUB_USERNAME>" }
+    - { platform: github, user_url: "https://github.com/frankkennedy/franciskennedy-digital-portfolio" }
