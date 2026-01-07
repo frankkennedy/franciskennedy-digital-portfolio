@@ -16,7 +16,7 @@ Welcome to my portfolio. I build and deliver work across analytics, data, and bu
 - Challenge myself and others to continuously improve
 
 ## Featured Projects
-Check out **[Projects](/projects/)** for more.
+Check out **[Projects](https://github.com/frankkennedy/franciskennedy-digital-portfolio/blob/main/Projects.md)** for more.
 
 ## Experience Snapshot
 - **Most recent role:** _Company — Title (Years)_
