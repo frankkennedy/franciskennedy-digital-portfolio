@@ -5,12 +5,14 @@ title: Home
 
 # Francis Kennedy
 
-**Headline:** _Paste your LinkedIn headline here_
+**Headline:** _Senior Director HR Analytics_
 
-Welcome to my portfolio. I build and deliver work across analytics, data, and business outcomes.
+Welcome to my portfolio. I build and deliver work across analytics, data, and business outcomes. I am a data enthusiast with a passion to solve complex problems through planning and capability enhancement
 
 ## What I do
-- ✅ _Paste 3–6 “value bullets” from your About section_
+- ✅ Build innovative and curious teams
+- Create collaborative learning work environments
+- 
 - ✅ _Keep these short and punchy_
 
 ## Featured Projects
