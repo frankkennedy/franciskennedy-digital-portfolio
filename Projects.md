@@ -7,7 +7,7 @@ title: Projects
 
 ## Project Name 1
 **Problem:**  
-Executive Dashboard was needed weekly
+Executive Dashboard updates were updated once every 2 weeks.  more frquent updates were required.
 
 **What I did:**  
 - Collaborated with the analytics team to gather requirements
