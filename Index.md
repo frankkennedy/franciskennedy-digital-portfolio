@@ -11,7 +11,7 @@ Welcome to my portfolio. I build and deliver work across analytics, data, and bu
 
 ## What I do
 - Create collaborative learning work environments
-- Encourage extreme ownership and discipline to drive result
+- Encourage extreme ownership and discipline to drive results
 - Challenge myself and others to continuously improve
 
 ## Featured Projects
