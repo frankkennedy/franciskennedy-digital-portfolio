@@ -16,11 +16,12 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 - Coached team on how to connect Tableau to Snowflake and bipass Alteryx
 
 **Impact:**  
-- Automated manual work that could only deliver a Dashboard every 2 Weeks to a daily process with no manual input
+- Automated manual work that could only deliver a Dashboard every 2 Weeks to a daily process that now requires no manual intervention
 - Empowered Executives to make faster decisions with data available every day
 - Recovered time team spent updating Dashboard($20k per year) direct savings
+- Incorporated DMBOK best practices for data management ensuring data is defined, accurate, and secure
 
-**Tech:** _Snowflake, SQL, Tableau, Workday, Alteryx
+**Tech:** _Snowflake, SQL, Tableau, Workday, Alteryx, Collibra
 
 ---
 
