@@ -14,6 +14,7 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 - Assigned and coached analyst through the SQL build
 - Partnered with IT to create daily Orchestration
 - Coached team on how to connect Tableau to Snowflake and bipass Alteryx
+- Prioritized team to document each data element with definitions, classification, lineage, and quality rules
 
 **Impact:**  
 - Automated manual work that could only deliver a Dashboard every 2 Weeks to a daily process that now requires no manual intervention
