@@ -23,4 +23,4 @@ Check out **[Projects](https://github.com/frankkennedy/franciskennedy-digital-po
 - **Previous:** Wells Fargo — Vice President - Workforce Management People Leader
 - **Previous 2:** Wells Fargo - Vice President - Auto Credit Risk Data Infrastructure
 
-> Want the full detail? See **[Resume](https://www.linkedin.com/in/franciskennedy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**.
+> Want the full detail? See **[LinkedIn](https://www.linkedin.com/in/franciskennedy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**.
