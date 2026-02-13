@@ -22,14 +22,14 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 - Recovered time team spent updating Dashboard($20k per year) direct savings
 - Incorporated DMBOK best practices for data management ensuring data is defined, accurate, and secure
 
-**Tech:** _Snowflake, SQL, Tableau, Workday, Alteryx, Collibra
+**Tech:** Snowflake, SQL, Tableau, Workday, Alteryx, Collibra
 
 ---
 
 ## Project Name: Data Hub
 **Problem:**  
 - Firm chose to move to Snowflake to ensure sustainable data delivery was achieved
-- Previous daya structure was in Starburst, but did not align to future business needs
+- Previous data structure was in Starburst, but did not align to future business needs
 
 **What I did:**  
 - Setup 20 days of meetings with different business leaders to understand data concepts and needs 
