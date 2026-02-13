@@ -35,7 +35,7 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 - Setup 20 days of meetings with different business leaders to understand data concepts and needs 
 - Built a Conceptual Data Model based on the information gathered within a week of the meetings concluding
 - Built a Logical Data Model based on the Conceptual Data Model within 1 month of completing the Conceptual Model
-- Partnered with IT to build the Physical Data Model from the Logical Data Model with 4 months of completing the Logical Model
+- Partnered with IT to build the Physical Data Model from the Logical Data Model within 4 months of completing the Logical Model
 - Provided leadership on how to use Hackolade modeling software
 - Negotiated licenses required for the work to move fast
 
