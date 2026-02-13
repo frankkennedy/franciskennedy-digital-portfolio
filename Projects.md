@@ -40,10 +40,8 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 - Negotiated licenses required for the work to move fast
 
 **Impact:**  
-- New Data Infrastructure allowed team to access data using automated tools
-- New 
-- Recovered time team spent updating Dashboard($20k per year) direct savings
+- New Data Infrastructure allowed team to access data using automation tools
 - Incorporated DMBOK best practices for data management ensuring data is defined, accurate, and secure
 
-**Tech:** _Snowflake, SQL, Tableau, Workday, Alteryx, Collibra
+**Tech:** Snowflake, SQL, Workday, Collibra
 
