@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Home
+This is my GitHub web page.
 ---
 
 # Francis Kennedy
