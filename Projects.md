@@ -26,7 +26,7 @@ Executive Dashboard was updated once every 2 weeks.  More frequent updates were 
 
 ---
 
-## Project Name: Data Hub
+## Project Name: People Data Hub
 **Problem:**  
 - Firm chose to move to Snowflake to ensure sustainable data delivery was achieved
 - Previous data structure was in Starburst, but did not align to future business needs
