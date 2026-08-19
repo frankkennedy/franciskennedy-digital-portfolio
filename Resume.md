@@ -53,6 +53,13 @@ people with peak performance.
 standard codes and checklists to eliminate repeat errors and
 increase throughput
 
+### Workforce Management Leader — Wells Fargo
+**Dates:** Aug 2020 – Aug 2021
+- Led team of 18 stateside employees in daily monitoring, employee
+schedule design, and expansion of workforce management team
+- Expanded schedule support from 100 employees to 1,000 employees
+- Built a ticket system for schedule exceptions
+
 ### DataOps Team Lead — Wells Fargo
 **Dates:** May 2019 – Aug 2020
 - Led daily sprint calls to build and enhance the Auto Credit Risk
