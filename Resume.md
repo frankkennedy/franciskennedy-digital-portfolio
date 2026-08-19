@@ -1,4 +1,4 @@
----
+I'm---
 layout: page
 title: Resume
 ---
@@ -52,6 +52,18 @@ people with peak performance.
 - Partnered with quality team to identify common gaps and developed
 standard codes and checklists to eliminate repeat errors and
 increase throughput
+
+### DataOps Team Lead — Wells Fargo
+**Dates:** May 2019 – Aug 2020
+- Led daily sprint calls to build and enhance the Auto Credit Risk
+Datamart
+- Used SAS, PowerBI, and GitHub to transform Auto Credit Risk from an
+ad-hoc analytics request team into a collaborative forward-focused
+line of business
+- Converted 180k lines of SAS, SQL, and JSON code into standardized
+structure for daily orchestration
+
+
 
 ## Education
 - Iowa State University — MBA — 2013
