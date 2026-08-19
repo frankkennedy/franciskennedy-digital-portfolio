@@ -41,18 +41,21 @@ people with peak performance.
 ## Experience
 
 ### Head of the People Data Office — TIAA
-**Dates:** JUN 2024 - Current
+**Dates:** Jun 2024 - Current
 - Built People Data Hub
 - Implemented Data Management
 - Automated HR reporting using datahub and Tableau
 
-### Job Title — Company
-**Dates:** _MMM YYYY – MMM YYYY_  
-- _Accomplishment_
-- _Accomplishment_
+### Customer Remediation Analytics Senior Manager — Wells Fargo
+**Dates:** Aug 2021 – Jun 2024
+- Built GitHub repository for change control and code collaboration
+- Partnered with quality team to identify common gaps and developed
+standard codes and checklists to eliminate repeat errors and
+increase throughput
 
 ## Education
-- _School — Degree — Year_
+- Iowa State University — MBA — 2013
+- Iowa State University - Bachelor of Science Accounting - 2004
 
 ## Certifications
 - _Cert — Year_
