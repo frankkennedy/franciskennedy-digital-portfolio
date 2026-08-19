@@ -74,7 +74,4 @@ structure for daily orchestration
 
 ## Education
 - Iowa State University — MBA — 2013
-- Iowa State University - Bachelor of Science Accounting - 2004
-
-## Certifications
-- _Cert — Year_
+- Iowa State University - BS Accounting - 2004
