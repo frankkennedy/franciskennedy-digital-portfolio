@@ -6,7 +6,7 @@ title: Resume
 # Resume
 
 ## Summary
-Motivated leader with 20 years of Strategy, Financial, & Analytic
+Motivated leader with 20+ years of Strategy, Financial, & Analytic
 Consulting experience. Increasingly responsible for metrics, analysis,
 strategic planning, and process management. Extensive planning,
 research, data visualization, organizational, and presentation skills.
